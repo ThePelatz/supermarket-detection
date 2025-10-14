@@ -33,15 +33,15 @@ The following additional resources will be downloaded from my personal drive.
 
 ### Some matches with target products
 **Example 1:**  
-Imperfect match. Found a similar object, but not the exact one.
+Imperfect match. Found a similar object, but not the exact one.<br>
 ![Product match 1](res/object_matching_example4.png)
 
 **Example 2:**  
-Good match.
+Good match.<br>
 ![Product match 2](res/object_matching_example5.png)
 
 **Example 3:**  
-Incorrect match.
+Incorrect match.<br>
 ![Product match 3](res/object_matching_example6.png)
 
 # Results and some conclusions
