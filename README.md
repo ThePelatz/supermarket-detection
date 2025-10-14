@@ -21,10 +21,10 @@ The following additional resources will be downloaded from my personal drive.
 ![Product match 1](res/object_matching_example1.png)
 
 **Example 2:**  
-![Product match 2](res/object_matching_example1.png)
+![Product match 2](res/object_matching_example2.png)
 
 **Example 3:**  
-![Product match 3](res/object_matching_example1.png)
+![Product match 3](res/object_matching_example3.png)
 
 ## Example Shelf 2 (Bigger and more complex)
 
@@ -33,14 +33,20 @@ The following additional resources will be downloaded from my personal drive.
 
 ### Some matches with target products
 **Example 1:**  
-![Product match 1](res/object_matching_example4.png)
 Imperfect match. Found a similar object, but not the exact one.
+![Product match 1](res/object_matching_example4.png)
 
 **Example 2:**  
-![Product match 2](res/object_matching_example5.png)
 Good match.
+![Product match 2](res/object_matching_example5.png)
 
 **Example 3:**  
-![Product match 3](res/object_matching_example6.png)
 Incorrect match.
+![Product match 3](res/object_matching_example6.png)
+
+# Results and some conclusions
+This notebook serves as a preliminary example and structural baseline for a future, more refined and accurate version. Two tests were conducted on different supermarket shelves.
+- In the simpler case, both object detection and product matching produced solid results, consistent with the limited scope of this demonstration.
+- On the larger and more complex shelf, object detection remained reliable, while the matching process achieved only moderate accuracy, correctly identifying some products but misclassifying others, partly due to the lower quality and variability of the input image.
+
 
